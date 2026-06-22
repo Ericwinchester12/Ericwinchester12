@@ -1,15 +1,15 @@
-# Hi, I'm Eric! 👋
+<h1 align="center">Hi, I'm Eric! 👋</h1>
 
-Welcome to my profile! I'm a Web Programming student currently developing my skills in backend development, logic, and database management.
+<p align="center">Welcome to my profile! I'm a Web Programming student currently developing my skills in backend development, logic, and database management.</p>
 
-## 📊 My GitHub Stats
+<h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
   <a href="https://github.com/Ericwinchester12">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ericwinchester12&show_icons=true&bg_color=000000&title_color=8a2be2&text_color=ffffff&icon_color=ff0000&border_color=8a2be2" alt="Eric's GitHub Stats" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ericwinchester12&show_icons=true&bg_color=000000&title_color=8a2be2&text_color=ffffff&icon_color=ff0000&border_color=8a2be2" alt="Eric's GitHub Stats" />
   </a>
   <a href="https://github.com/Ericwinchester12">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericwinchester12&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=8a2be2" alt="Eric's Top Languages" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericwinchester12&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=8a2be2" alt="Eric's Top Languages" />
   </a>
 </div>
 
