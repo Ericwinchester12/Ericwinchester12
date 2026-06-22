@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Eric! 👋
 
-<!--
-**Ericwinchester12/Ericwinchester12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I'm a Web Programming student currently developing my skills in backend development, logic, and database management.
 
-Here are some ideas to get you started:
+## 📊 My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ericwinchester12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Eric's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericwinchester12&layout=compact&theme=tokyonight" alt="Eric's Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ericwinchester12&theme=tokyonight" alt="Eric's Streak Stats" />
+</p>
+
+## 🛠️ Tech Stack & Tools
+
+* **Languages & Backend:** Python 🐍 | PHP 🐘
+* **Databases:** MySQL / SQL 🗄️
+* **Tools:** VS Code | Git & GitHub 💻
+
+---
+*“Step by step, building my journey into web development.”*
