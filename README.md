@@ -21,7 +21,7 @@
   </a>
 </div>
 
-div align="center">
+<div align="center">
 <a href="https://github.com/Ericwinchester12"><img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ericwinchester12&theme=redical&hide_border=true&area=true&custom_title=Mapa%20da%20Minha%20Jornada"alt="Gráfico de atividade"/></a>
 </div>
 
