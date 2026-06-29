@@ -4,26 +4,28 @@
 
 <h2 align="center">📊 My GitHub Stats</h2>
 
-<p align="center">
-  <a href="https://github.com/Ericwinchester12">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ericwinchester12&show_icons=true&bg_color=000000&title_color=8a2be2&text_color=ffffff&icon_color=ff0000&border_color=8a2be2" alt="Eric's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/Ericwinchester12">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericwinchester12&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=8a2be2" alt="Eric's Top Languages" width="48%" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Ericwinchester12">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ericwinchester12&background=000000&border=8a2be2&stroke=ff0000&ring=8a2be2&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8a2be2&sideLabels=ffffff&dates=cccccc" alt="Eric's Streak Stats" width="97%" />
-  </a>
-</p>
+[![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ericwinchester12&show_icons=true&bg_color=000000&title_color=8a2be2&text_color=ffffff&icon_color=ff0000&border_color=8a2be2)](https://github.com/Ericwinchester12)
+[![Eric's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericwinchester12&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=8a2be2)](https://github.com/Ericwinchester12)
 
-<p align="center">
-  <a href="https://github.com/Ericwinchester12">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ericwinchester12&theme=redical&hide_border=true&area=true&custom_title=Mapa%20da%20Minha%20Jornada" alt="Gráfico de atividade" width="97%" />
-  </a>
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+[![Eric's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ericwinchester12&background=000000&border=8a2be2&stroke=ff0000&ring=8a2be2&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8a2be2&sideLabels=ffffff&dates=cccccc)](https://github.com/Ericwinchester12)
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=Ericwinchester12&theme=redical&hide_border=true&area=true&custom_title=Mapa%20da%20Minha%20Jornada)](https://github.com/Ericwinchester12)
+
+</div>
 
 ## 🛠️ Tech Stack & Tools
 
