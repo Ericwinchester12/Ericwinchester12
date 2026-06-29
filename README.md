@@ -9,11 +9,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Ericwinchester12&show_icons=true&bg_color=000000&title_color=8a2be2&text_color=ffffff&icon_color=ff0000&border_color=8a2be2" alt="Eric's GitHub Stats" />
   </a>
   <a href="https://github.com/Ericwinchester12">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericwinchester12&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=8a2be2" alt="Eric's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericwinchester12&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=8a2be2" alt="Eric's Top Languages" />
   </a>
 </div>
 
-<br>
+<br />
 
 <div align="center">
   <a href="https://github.com/Ericwinchester12">
@@ -21,8 +21,12 @@
   </a>
 </div>
 
+<br />
+
 <div align="center">
-<a href="https://github.com/Ericwinchester12"><img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ericwinchester12&theme=redical&hide_border=true&area=true&custom_title=Mapa%20da%20Minha%20Jornada"alt="Gráfico de atividade"/></a>
+  <a href="https://github.com/Ericwinchester12">
+    <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=Ericwinchester12&theme=redical&hide_border=true&area=true&custom_title=Mapa%20da%20Minha%20Jornada" alt="Gráfico de atividade" />
+  </a>
 </div>
 
 ## 🛠️ Tech Stack & Tools
@@ -32,4 +36,5 @@
 * **Tools:** VS Code | Git & GitHub 💻
 
 ---
+
 *“Step by step, building my journey into web development.”*
